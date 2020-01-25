@@ -1,0 +1,12 @@
+<log4j:event logger="com.nt.jdbc.SelectTest3" timestamp="1520444111528" level="INFO" thread="main">
+<log4j:message><![CDATA[Log4jProj1.mod1.SelectTest3.static block:Log4j cfgs is done Successfully]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest3" timestamp="1520444130150" level="INFO" thread="main">
+<log4j:message><![CDATA[log4jProj1.mod1.SelectTest3.main()::Connection obj is closed]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.nt.jdbc.SelectTest3" timestamp="1520444130150" level="INFO" thread="main">
+<log4j:message><![CDATA[log4jProj1.mod1.SelectTest3.main()::Scanner obje is closed]]></log4j:message>
+</log4j:event>
+
